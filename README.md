@@ -1,2 +1,2 @@
 # repo-practice
-The Grasshoper Lies Heavy.
+The Grasshopper Lies Heavy.
